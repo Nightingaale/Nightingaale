@@ -14,3 +14,22 @@ Languages and Tools:
 <div class="contacts">
   <a href="#">f11s</a>
 </div>
+
+
+
+contacts {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contacts img {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}
+
+.contacts a {
+  color: #fff; /* Или любой другой цвет */
+  text-decoration: none;
+}
