@@ -2,7 +2,7 @@
 <h1>
 Languages and Tools:
 </h1>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="104.25" height="48">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" height="48">
 <h1>
 Contact:
 </h1>
