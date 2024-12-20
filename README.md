@@ -3,7 +3,7 @@
 <img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt = ""/>
 </div><br>
 
-<div style="display: flex;>
+<div style="display: flex";>
 <p text-align: center;>
 <img text-align= "center" src = "https://komarev.com/ghpvc/?username=Nightingaale&style=for-the-badge" alt = ""/>
 </p>
@@ -20,9 +20,6 @@
 <img align="center" alt="Spring" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img align="center" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
 <img align="center" alt="Hibernate" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
-<img align="center" alt="MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-<img align="center" alt="Kafka" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"/>
-<img align="center" alt="Cassandra" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"/>
 </p>
 </div>
 
