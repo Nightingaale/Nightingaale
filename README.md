@@ -21,7 +21,7 @@
 
 <h1>
 Contacts:<br>
-<img align="center" alt="Gmail" src="https://img.icons8.com/?size=96&id=qyRpAggnV0zH&format=png"/>
+<img align="center" alt="Gmail" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/>
 </h1>
 
 
