@@ -1,7 +1,6 @@
 <div>
 <a href="https://github.com/Nightingaale">
 <img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt = ""/>
-<img src ="https://camo.githubusercontent.com/010fef9e586ae932ca4411034d3ade3932229ea139872f337d3d21355a1c369d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d626c7565"/>
 </div>
 <h1 align ="left">Languages and Tools:</h1>
 <p align="left">
