@@ -23,11 +23,6 @@
 </p>
 
 <h1>Contacts:</h1>
-<p align = "left">
-<img align="center" alt="Gmail&Discord" src="https://camo.githubusercontent.com/596127bd865ae1491c71237f0febf5ecd3a65fef4a89d766cc0d9061a8cd0d0e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676d61696c2c646973636f7264" width="100" height = "100"/>
-Gmail:
-Discord: shirou333
-</p>
-</p>
+<p align="left"> <a href="https://discord.com/users/shirou333" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
 
 
