@@ -1,9 +1,9 @@
 <div>
 <a href="https://github.com/Nightingaale">
 </div>
+<div style="display: inline_block"><br>
 <h1>
 Languages and Tools:<br>
-<div style="display: inline_block"><br>
 <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="center" alt="PostgreSQL" height="40" width="40" border="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"/>
@@ -17,3 +17,9 @@ Languages and Tools:<br>
 <img align="center" alt="Cassandra" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"/>
 </h1>
 </div>
+
+
+##
+
+
+<div></div>
