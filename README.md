@@ -22,7 +22,6 @@
    <img align="center" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
    <img align="center" alt="Hibernate" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
 
-<img align="center" alt="Gmail" height="35" width="40" src= "file:///Users/artemkaratkevich/Downloads/generated-svg-image.svg"/>
  </p>
 </div>
 
