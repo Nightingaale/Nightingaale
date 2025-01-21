@@ -12,16 +12,16 @@
 <h1 align ="left">Languages and Tools:</h1>
 <div style = "display: inline-block">
  <p align="left">
-   <img align="center" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-   <img align="center" alt="Maven" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
-   <img align="center" alt="Gradle" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>
-   <img align="center" alt="PostgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-   <img align="center" alt="Bash" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"/>
-   <img align="center" alt="Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-   <img align="center" alt="Git" height= "50" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-   <img align="center" alt="Spring" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-   <img align="center" alt="Redis" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
-   <img align="center" alt="Hibernate" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
+   <img align="center" alt="Java" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+   <img align="center" alt="Maven" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
+   <img align="center" alt="Gradle" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>
+   <img align="center" alt="PostgreSQL" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+   <img align="center" alt="Bash" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"/>
+   <img align="center" alt="Docker" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+   <img align="center" alt="Git" height= "50" width= "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+   <img align="center" alt="Spring" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+   <img align="center" alt="Redis" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
+   <img align="center" alt="Hibernate" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
  </p>
 </div>
 
