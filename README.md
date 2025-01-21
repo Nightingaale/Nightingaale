@@ -21,7 +21,6 @@
    <img align="center" alt="Spring" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
    <img align="center" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
    <img align="center" alt="Hibernate" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
-![Discord](file:///Users/artemkaratkevich/Downloads/svg-image.png)
  </p>
 </div>
 
