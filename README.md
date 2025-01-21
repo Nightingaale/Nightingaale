@@ -32,8 +32,6 @@
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg"/> 
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"/> 
    <img align="center" alt="Discord" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="35" widtg="40"/>
-
-<img align="center" alt="Discord" src="file:///Users/artemkaratkevich/Downloads/svg-gobbler(2).svg"/> 
 </picture> 
   </a>
  </p>
