@@ -22,7 +22,7 @@
    <img align="center" alt="Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
    <img align="center" alt="Hibernate" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
 
-  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/moxfdq7EacjVcDUsfbru6t/Untitled?node-id=3-14&embed-host=share" allowfullscreen></iframe>
+  <img style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/moxfdq7EacjVcDUsfbru6t/Untitled?node-id=3-14&embed-host=share" allowfullscreen/>
  </p>
 </div>
 
