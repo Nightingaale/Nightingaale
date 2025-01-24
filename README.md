@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git"/>
+    <img src="https://skillicons.dev/icons?i=git,zsh"/>
 </p>
 
 <h3 align="left">Contacts:</h3>
