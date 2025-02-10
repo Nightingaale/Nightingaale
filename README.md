@@ -7,7 +7,7 @@
 
 > <p>
 >   <i>
->     
+>    Hello, my name is Artem and I am Java developer
 >   </i>
 > </p>
 
