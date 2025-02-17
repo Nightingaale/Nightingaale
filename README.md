@@ -20,8 +20,9 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<img align="left" src="https://skillicons.dev/icons?i=discord"/> 
+<img align="left" src="https://skillicons.dev/icons?i=discord,gmail"/> 
     <i> Discord - shirou333 </i>
     <br/>
+    <i> Gmail -  </i>
 </p>
 </div>
