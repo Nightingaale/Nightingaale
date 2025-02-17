@@ -15,14 +15,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,postgresql,git,bash"/>
+    <img src="https://skillicons.dev/icons?i=java,maven,postgresql,git,bash"/>
 </p>
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<img align="left" src="https://skillicons.dev/icons?i=discord,gmail"/> 
+<img align="left" src="https://skillicons.dev/icons?i=discord"/> 
     <i> Discord - shirou333 </i>
     <br/>
-    <i> Gmail -  </i>
 </p>
 </div>
