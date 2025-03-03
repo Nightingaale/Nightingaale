@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgresql,mongodb,git,bash"/>
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,postgresql,git,bash"/>
 </p>
 
 <h3 align="left">Contacts:</h3>
