@@ -13,12 +13,12 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠️ Languages and Tools:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,postgresql,mongodb,git,bash"/>
 </p>
 
-<h3 align="left">Contacts:</h3>
+<h3 align="left">📞 Contacts:</h3>
 <p align="left">
 <img align="left" src="https://skillicons.dev/icons?i=discord,gmail"/> 
     <i> Discord - shirou333 </i>
