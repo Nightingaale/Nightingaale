@@ -20,7 +20,7 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<img align="left" src="https://skillicons.dev/icons?i=discord,gmail"/> 
+<img align="left" src="https://skillicons.dev/icons?i=discord"/> 
     <i> Discord - shirou333 </i>
     <br/>
 </p>
