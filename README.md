@@ -7,7 +7,7 @@
 
 > <p>
 >   <i>
->    My name is Artem, and I am Java developer. I'm currently start to learn new technologies, which are connected with Java.
+>    My name is Artem, and I am Java developer. I'm currently learning technologies, which are connected with Java. 
 >   </i>
 > </p>
 
