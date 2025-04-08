@@ -7,13 +7,13 @@
 
 > <p>
 >   <i>
->    My name is Artem, and I am Java Backend Developer. I'm currently learning technologies, which are connected with Java.  
+>    My name is Artem, and I am Java Backend Developer. I'm currently learning technologies, which are connected with Java.    
 >   </i>
 > </p>
 
 <hr>
 
-### <p align="left">Technical Skills:</p>
+### <p align="left">Technical Skills:</p>  
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,spring,postman"/>
