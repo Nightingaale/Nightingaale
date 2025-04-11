@@ -25,6 +25,6 @@
 
 ### <h3 align = "left">Contacts:</h3>
  <p align="left">
-    <img src="https://skillicons.dev/icons?i=discord,gmail"/>
+    <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin"/>
  </p>
 </div>
