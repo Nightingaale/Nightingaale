@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,git,gitlab,bash"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,bash"/>
 </p>
 
 ### <h3 align = "left">Contacts:</h3>
