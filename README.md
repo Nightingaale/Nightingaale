@@ -16,11 +16,11 @@
 ### <p align="left">Technical Skills:</p>  
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,spring,postman,jenkins"/>
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,spring,postman,redis,kafka"/>
 </p>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,bash"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,jenkins,bash"/>
 </p>
 
 ### <h3 align = "left">Contacts:</h3>
