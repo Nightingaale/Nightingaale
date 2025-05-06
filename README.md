@@ -16,7 +16,7 @@
 ### <p align="left">Technical Skills:</p>  
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,spring,postman,redis,kafka"/>
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,spring,kafka,postman"/>
 </p>
 
 <p align="left">
