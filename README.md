@@ -12,7 +12,7 @@
 > </p>
 
 <hr>
-
+     
 ### <p align="left">Technical Skills:</p>  
 
 <p align="left">
