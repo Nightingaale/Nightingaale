@@ -13,14 +13,16 @@
 
 <hr>
 
-### <p align="left">Technical Skills:</p>  
+### <p align="left">Backend:</p>  
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,spring,kafka,postman"/>
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,spring"/>
 </p>
 
+### <p align="left">DevOps:</p> 
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,jenkins,bash"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,kafka,postman,docker,git,jenkins,bash"/>
 </p>
 
 ### <h3 align = "left">Contacts:</h3>
