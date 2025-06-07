@@ -22,7 +22,7 @@
 ### <p align="left">DevOps</p> 
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,kafka,postman,docker,k8s,jenkins,git,nginx,bash"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,kafka,postman,docker,k8s,jenkins,git,bash"/>
 </p>
 
 ### <h3 align = "left">Contacts</h3>
