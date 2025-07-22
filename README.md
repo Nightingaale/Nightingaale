@@ -31,6 +31,6 @@
 
 ### <h3 align = "left">Contacts</h3>
  <p align="left">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin"/>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
  </p>
 </div>
