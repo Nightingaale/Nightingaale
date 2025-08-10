@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana,postman,git,linux,bash"/>
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,postman,git,bash"/>
 </p>
 
 ### <h3 align = "left">Contacts</h3>
