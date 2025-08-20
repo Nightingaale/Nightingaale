@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=jenkins,prometheus,grafana,postman,git,bash"/>
 </p>
 
-### <h3 align = "left">Contacts</h3>
+### <p align = "left">Contacts</h3>
  <p align="left">
     <img src="https://skillicons.dev/icons?i=gmail"/>
  </p>
