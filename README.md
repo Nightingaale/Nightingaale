@@ -22,11 +22,11 @@
 ### <p align="left">DevOps</p> 
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,kafka,docker,k8s,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,kafka,docker,k8s,gitlab,jenkins"/>
 </p>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=jenkins,prometheus,grafana,elasticsearch,postman,git,bash"/>
+    <img src="https://skillicons.dev/icons?i=nginx,prometheus,grafana,elasticsearch,postman,git,bash,linux"/>
 </p>
 
 ### <p align = "left">Contacts</h3>
