@@ -16,21 +16,22 @@
 ### <p align="left">Backend</p>  
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,spring"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,gradle,hibernate,spring"/>
 </p>
 
 ### <p align="left">DevOps</p> 
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,kafka,docker,k8s,gitlab,jenkins"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis,keycloak,kafka,docker,k8s,helm,gitlab,jenkins"/>
 </p>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nginx,prometheus,grafana,elasticsearch,postman,git,bash,linux"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,cloudflare,prometheus,grafana,elasticsearch,kibana,postman,git,bash,linux"/>
 </p>
+
 
 ### <p align = "left">Contacts</h3>
  <p align="left">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
  </p>
 </div>
