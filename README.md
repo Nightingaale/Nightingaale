@@ -22,7 +22,7 @@
 ### <p align="left">DevOps</p> 
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis,keycloak,kafka,docker,k8s,helm,gitlab,jenkins"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis,clickhouse,keycloak,kafka,docker,k8s,helm,gitlab,jenkins"/>
 </p>
 
 <p align="left">
