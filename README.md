@@ -22,11 +22,11 @@
 ### <p align="left">DevOps</p> 
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis,clickhouse,keycloak,kafka,docker,k8s,helm,gitlab,jenkins"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis,clickhouse,cassandra,kafka,docker,k8s,helm,gitlab,jenkins"/>
 </p>
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,cloudflare,prometheus,grafana,elasticsearch,kibana,postman,git,bash,linux"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=keycloak,nginx,cloudflare,prometheus,grafana,elasticsearch,kibana,postman,git,bash,linux"/>
 </p>
 
 
