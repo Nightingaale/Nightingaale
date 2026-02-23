@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,cloudflare,prometheus,grafana,elasticsearch,kibana,postman,git,bash,linux"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,prometheus,grafana,elasticsearch,kibana,postman,git,bash,linux"/>
 </p>
 
 
