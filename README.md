@@ -16,19 +16,40 @@
 ### <p align="left">Backend</p>  
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,gradle,hibernate,spring"/>
-</p>
-
-### <p align="left">DevOps</p> 
-
-<p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis,clickhouse,keycloak,kafka,docker,k8s,helm,gitlab,jenkins"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,gradle,junit"/>
 </p>
 
 <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform,cloudflare,prometheus,grafana,elasticsearch,kibana,postman,git,bash,linux"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate,spring,kafka,keycloak"/>
 </p>
 
+### <p align="left">Databases</p> 
+
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis,clickhouse"/>
+</p>
+
+### <p align="left">CI/CD</p> 
+
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,jenkins"/>
+</p>
+
+### <p align="left">Logging & Monitoring</p> 
+
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,elasticsearch,kibana"/>
+</p>
+
+### <p align="left">DevOps & Tools</p> 
+
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,k8s,helm,terraform,cloudflare"/>
+</p>
+
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,git,bash,linux"/>
+</p>
 
 ### <p align = "left">Contacts</h3>
  <p align="left">
